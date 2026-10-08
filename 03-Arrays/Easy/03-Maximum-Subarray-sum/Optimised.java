@@ -1,0 +1,7 @@
+/**
+ * Optimised
+ */
+public class Optimised {
+
+    
+}
